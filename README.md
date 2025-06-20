@@ -1,6 +1,6 @@
 # 🧪 Scientific Research Assistant
 
-The **Scientific Research Assistant** is an intelligent, interactive application designed to assist researchers, reviewers, and academics in streamlining the peer review and literature analysis process. This assistant provides functionalities such as literature summarization, peer review generation, and citation intelligence — all powered by large language models (LLMs).
+The **Scientific Research Assistant** is an intelligent, interactive application designed to assist researchers, reviewers, and academics in streamlining the peer review and literature analysis process. This assistant provides functionalities such as literature summarization, peer review generation, and citation intelligence — all powered by OPEN AI's gpt-4o [large language model (LLMs)].
 
 ---
 
@@ -39,60 +39,7 @@ The **Scientific Research Assistant** is an intelligent, interactive application
 
 ---
 
-## 🧰 Suggested Tech Stack
-
-### Frontend
-- 🧪 **Streamlit** for rapid MVP prototyping
-- ⚛️ **React + FastAPI** for production deployments
-
-### Backend
-- 🔁 `LangChain`, `LlamaIndex`, or `Haystack` for LLM integration
-- 📁 `FAISS` or `ChromaDB` for vector store and citation retrieval
-- 🗄️ `PostgreSQL` or `SQLite` for metadata and storage
-
-### Language Models
-- 🔥 **OpenAI GPT-4o** or **GPT-4-turbo**
-- 🧠 **Claude 3** (Anthropic) for high-fidelity summarization
-- 🦙 **Mistral** or **LLaMA3** for private/local model deployment
-
----
-
-## 🚀 Project Roadmap
-
-### ✅ Phase 1 (MVP): Local PDF Summarizer
-- Upload scientific paper (PDF)
-- Output structured summary (IMRaD format)
-- Highlight key findings & limitations
-
-### ✅ Phase 2: Peer Review Generator
-- Add review input fields: journal name, tone, length
-- Generate full-text peer review
-- Option to batch upload multiple papers
-
-### ✅ Phase 3: Citation Intelligence
-- Extract and analyze references from PDF
-- Enrich metadata via APIs
-- Flag:
-  - Self-citations
-  - Missing landmark papers
-  - Weak or outdated references
-
-### ✅ Phase 4: Export & Personalization
-- Export output as `.docx` or `.pdf`
-- Save and version control summaries & reviews
-- Enable “review style presets” (e.g., NIH reviewer, clinician, statistician)
-
----
-
-## 🔒 Optional Advanced Features
-- On-device LLMs via **Ollama**, **Mixtral**, or **LLaMA3**
-- Chat with a research paper using **RAG** over vectorized content
-- Cross-paper comparison (for systematic reviews)
-- Integration with **Zotero** or **EndNote** for citation syncing
-
----
-
-## 📦 Installation (Coming Soon)
+## 📦 Installation
 
 ```bash
 # Create and activate virtual environment
