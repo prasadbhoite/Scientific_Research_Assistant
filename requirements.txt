@@ -1,0 +1,7 @@
+-e .
+streamlit
+PyMuPDF                  # For PDF text extraction
+openai>=1.0.0           # For GPT-based completions
+python-dotenv           # To manage environment variables like API keys
+tqdm                    # Optional: progress bars (if needed)
+requests                # For external API calls (e.g., citation enrichment)

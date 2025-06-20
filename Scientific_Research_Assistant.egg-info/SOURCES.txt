@@ -1,0 +1,10 @@
+README.md
+setup.py
+Scientific_Research_Assistant.egg-info/PKG-INFO
+Scientific_Research_Assistant.egg-info/SOURCES.txt
+Scientific_Research_Assistant.egg-info/dependency_links.txt
+Scientific_Research_Assistant.egg-info/top_level.txt
+utils/__init__.py
+utils/llm.py
+utils/pdf_utils.py
+utils/prompt.py
