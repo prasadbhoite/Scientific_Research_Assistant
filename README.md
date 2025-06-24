@@ -39,6 +39,28 @@ The **Scientific Research Assistant** is an intelligent, interactive application
 
 ---
 
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](./docs/images/1.LandingPage.png)
+
+### 📄 PDF Upload and Text Extraction
+![PDF Upload](./docs/images/2.PDFUpload_Summarization.png)
+
+### 📚 Summarized Output
+![Summary Output](./docs/images/3.ArticleSummarizer.png)
+
+### 📚 Peer Review Generator
+![Peer Review Generator Output](./docs/images/5.PeerReviewGenerator_Summary.png)
+
+### 📚 Citation Analysis
+![Citation Analysis Output](./docs/images/6.CitationAnalysis.png)
+
+---
+
 ## 📦 Installation
 
 ```bash
